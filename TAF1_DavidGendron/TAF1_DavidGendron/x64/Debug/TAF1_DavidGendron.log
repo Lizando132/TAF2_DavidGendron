@@ -1,0 +1,8 @@
+﻿  main.cpp
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(37,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(43,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(64,26): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(66,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(79,30): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+H:\TAF1_DavidGendron\TAF1_DavidGendron\main.cpp(80,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  TAF1_DavidGendron.vcxproj -> H:\TAF1_DavidGendron\x64\Debug\TAF1_DavidGendron.exe
