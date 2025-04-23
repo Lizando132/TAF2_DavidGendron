@@ -1,0 +1,37 @@
+﻿  ball.cpp
+  cpuPaddle.cpp
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(16,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(20,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(44,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(45,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,31): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,31): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,46): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,46): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,65): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,65): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,85): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,85): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(52,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(75,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(75,16): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(75,13): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(80,23): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(81,24): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  main.cpp
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\main.cpp(50,23): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\main.cpp(57,59): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\main.cpp(57,35): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\main.cpp(59,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  paddle.cpp
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(16,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(20,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(25,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(29,9): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(62,29): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(62,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(62,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\paddle.cpp(62,16): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  TAF2_DavidGendron.vcxproj -> E:\Writing\DoingStudd\TAF2_DavidGendron\x64\Debug\TAF2_DavidGendron.exe

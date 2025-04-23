@@ -1,0 +1,50 @@
+﻿  ball.cpp
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(18,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'ball.cpp')
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(22,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'ball.cpp')
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(14,11): error C2084: la fonction 'int Ball::getX(void)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(16,6):
+      voir la définition précédente de « Ball::getX »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(18,11): error C2084: la fonction 'int Ball::getY(void)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(20,6):
+      voir la définition précédente de « Ball::getY »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(23,11): error C2084: la fonction 'int Ball::getRadius(void)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(25,6):
+      voir la définition précédente de « Ball::getRadius »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(28,11): error C2084: la fonction 'int Ball::getSpeedX(void)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(30,6):
+      voir la définition précédente de « Ball::getSpeedX »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(32,11): error C2084: la fonction 'int Ball::getSpeedY(void)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(34,6):
+      voir la définition précédente de « Ball::getSpeedY »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(37,12): error C2084: la fonction 'void Ball::setPosition(float,float)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(39,7):
+      voir la définition précédente de « Ball::setPosition »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(42,12): error C2084: la fonction 'void Ball::setSpeed(int,int)' a déjà un corps
+      E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(44,7):
+      voir la définition précédente de « Ball::setSpeed »
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(44,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(45,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,16): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.cpp(50,13): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  cpuPaddle.cpp
+  main.cpp
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(18,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+E:\Writing\DoingStudd\TAF2_DavidGendron\TAF2_DavidGendron\ball.h(22,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+  paddle.cpp
+  Génération de code en cours...
